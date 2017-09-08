@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Foundership; men's search for meaning
+title: Foundership; man's search for meaning
 email: mingsheng88@hotmail.com
 description: >
   Foundership collates stories of people who have made the conscious choice to go down the
